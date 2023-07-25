@@ -4,6 +4,9 @@
 - #### Computer Science:
 - #### Physics:
 - #### Other
+1. Rust
+2. Scala3
+3. Agda
 
 
 
