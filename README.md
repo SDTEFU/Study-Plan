@@ -1,4 +1,4 @@
-> [core](./core_theory.md)
+> [core](./core_theory.md)      
 > [recommend book](./well_book.md)
 
 ># road map:
