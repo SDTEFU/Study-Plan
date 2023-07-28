@@ -4,7 +4,7 @@
 > [well-tool](./core/well_tool.md)
 
 # road map:
->  [math](./Study-Plan/数学学习计划.md)     
+>  [math](./Study-Plan/math.md)     
 >  [Computer-Science](./Study-Plan/computer-science.md)     
 >  [Physics](./Study-Plan/physics.md)       
 >  [electronic-information](./Study-Plan/electronic-information.md)
