@@ -6,7 +6,6 @@
  - **Rust**
  - **Scala 3**
  - **RISC-V**
- - **LLVM**
 
 
 > ### Proof assistant / MATH
