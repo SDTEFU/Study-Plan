@@ -2,27 +2,24 @@
 1. **Linux**
 2. **Mathematica**
 >---
-3. **RACKET**
-4. **EMACS**
-5. **Metals**
-6. **SBT**
+1. **EMACS**
+2. **Metals**
+3. **SBT**
 >---
-7. **Git**
-8. **VScode**
-9. **PostgreSQL(pgAdmin)**
-10. **Tabby**
+1. **Git**
+2. **VScode**
+3. **PostgreSQL(pgAdmin)**
+4.  **Tabby**
 >---
 1. **LLVM**
 >---
-1.  **K8s**
-2.  **KICAD**
-3.  **Ngspice**
-4.  **FreeCAD**
-5.  **Blender**
-6.  **iverilog**
-7.  **GTKWAVE**
-8.  **Drawio**
-9.  **TexLive**
-10. **onlyoffice**
+1.  **KICAD**
+2.  **Ngspice**
+3.  **FreeCAD**
+4.  **Blender**
+5.  **iverilog**
+6.  **GTKWAVE**
+7.  **Drawio**
+8.  **onlyoffice**
 >---
 1.   **HURD(MINIX)**
