@@ -20,11 +20,10 @@
 
 > ### Configuration Files
 - **TOML**
-  
+- **Typst**  
 
 > ### TOOL
 - **Bash**
-- **LaTeX**
 - **Markdown**
 - **SQL**
 - **WASM**
