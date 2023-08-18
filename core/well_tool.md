@@ -14,10 +14,10 @@
 1. **LLVM**
 >---
 1.  **KICAD**
-2.  **Ngspice**
-3.  **FreeCAD**
-4.  **Blender**
-5.  **iverilog**
+2.  **Verilator**
+3.  **Ngspice**
+4.  **FreeCAD**
+5.  **Blender**
 6.  **GTKWAVE**
 7.  **Drawio**
 8.  **onlyoffice**

@@ -24,7 +24,6 @@
 
 > ### TOOL
 - **Bash**
-- **Markdown**
 - **SQL**
 - **WASM**
 
