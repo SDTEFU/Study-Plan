@@ -9,7 +9,8 @@
 
 
 > ### Proof assistant / MATH
-- **Agda**
+- **Agda2**
+- **Idris2**
 - **Mathematica (Wolfram)**
 
 
