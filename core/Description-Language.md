@@ -25,6 +25,6 @@
 
 > ### TOOL
 - **Bash**
-- **SQL**
+- **NIX**
 - **WASM**
 

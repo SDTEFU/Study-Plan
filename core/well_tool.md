@@ -5,11 +5,12 @@
 1. **EMACS**
 2. **Metals**
 3. **SBT**
+4. **NIX**
 >---
 1. **Git**
 2. **VScode**
 3. **PostgreSQL(pgAdmin)**
-4.  **Tabby**
+4. **Tabby**
 >---
 1. **LLVM**
 >---
