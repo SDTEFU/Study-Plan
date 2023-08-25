@@ -13,6 +13,8 @@
 4. **Tabby**
 >---
 1. **LLVM**
+2. **Proxmox**
+3. **QEMU**
 >---
 1.  **KICAD**
 2.  **Verilator**
