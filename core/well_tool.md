@@ -18,7 +18,6 @@
 3. **QEMU**
 4. **home-manager**
 5. **NixOS**
-6. 
 > Other
 1.  **KICAD**
 2.  **Verilator**
