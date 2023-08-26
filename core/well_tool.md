@@ -1,11 +1,12 @@
->---
+> Core
 1. **Linux**
 2. **Mathematica**
->---
-1. **EMACS**
-2. **Metals**
+> ---
+1. **EMACS** - Doomemacs
+2. **Metals** 
 3. **SBT**
-4. **NIX**
+4. **Idris2**
+5. **Agda**
 >---
 1. **Git**
 2. **VScode**
@@ -15,7 +16,10 @@
 1. **LLVM**
 2. **Proxmox**
 3. **QEMU**
->---
+4. **home-manager**
+5. **NixOS**
+6. 
+> Other
 1.  **KICAD**
 2.  **Verilator**
 3.  **Ngspice**
