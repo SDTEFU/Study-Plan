@@ -4,6 +4,7 @@
 > ### CORE
  - **Agda**
  - **Rust**
+ - **Idris2**
  - **RISC-V**
 
 > ### MATH
