@@ -1,4 +1,7 @@
-## CORE  ->  "Type Theory" and "lambda calculus" (HOTT)
+> ## CORE (HOTT)
+- Type Theory
+- Category theory
+- lambda calculus
 
 > #### MATH
 - mathematical logic
