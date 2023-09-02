@@ -1,7 +1,7 @@
-> ## CORE (HOTT)
+> ## CORE (HOTT)&(AI)
 - Type Theory
-- Category theory
-- lambda calculus
+- Category Theory
+- Lambda Calculus
 
 > #### MATH
 - mathematical logic
