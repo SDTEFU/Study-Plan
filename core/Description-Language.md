@@ -2,21 +2,16 @@
 - **用一套最核心最精简且强大的类型论公理系统(可描述/形式化/验证一切,统一数学记号)**
 
 > ### CORE
- - **LISP (scheme / Typed-racket)** 
+ - **Agda**
  - **Rust**
- - **Scala 3**
  - **RISC-V**
 
-
-> ### Proof assistant / MATH
-- **Agda2**
-- **Idris2**
+> ### MATH
 - **Mathematica (Wolfram)**
 
 
 > ### DSL
-- **SpinalHDL**
-- **SPICE**
+- **Bluespec**
 
 
 > ### Configuration Files
