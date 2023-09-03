@@ -1,17 +1,19 @@
 > Core
 1. **Linux**
 2. **Mathematica**
+3. **HURD(MINIX)**
 > ---
-1. **EMACS** - Doomemacs
 2. **Metals** 
 3. **SBT**
 4. **Idris2**
 5. **Agda**
+6. **Vim**
 >---
 1. **Git**
-2. **VScode**
-3. **PostgreSQL(pgAdmin)**
-4. **Tabby**
+2. **Hyprland**
+3. **VScode**
+4. **PostgreSQL(pgAdmin)**
+5. **Tabby**
 >---
 1. **LLVM**
 2. **Proxmox**
@@ -27,5 +29,3 @@
 6.  **GTKWAVE**
 7.  **Drawio**
 8.  **onlyoffice**
->---
-1.   **HURD(MINIX)**
