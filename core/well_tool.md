@@ -3,11 +3,9 @@
 2. **Mathematica**
 3. **HURD(MINIX)**
 > ---
-2. **Metals** 
-3. **SBT**
-4. **Idris2**
-5. **Agda**
-6. **Vim**
+1. **Idris2**
+2. **Agda**
+3. **Vim**
 >---
 1. **Git**
 2. **Hyprland**
