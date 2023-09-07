@@ -8,16 +8,16 @@
 3. **Vim**
 >---
 1. **Git**
-2. **Hyprland**
-3. **VScode**
-4. **PostgreSQL(pgAdmin)**
-5. **Tabby**
+2. **VScode**
+3. **PostgreSQL(pgAdmin)**
+4. **Tabby**
 >---
-1. **LLVM**
-2. **Proxmox**
-3. **QEMU**
-4. **home-manager**
-5. **NixOS**
+1. **NixOS**
+2. **Hyprland**
+3. **home-manager**
+4. **LLVM**
+5. **Proxmox**
+6. **QEMU**
 > Other
 1.  **KICAD**
 2.  **Verilator**
