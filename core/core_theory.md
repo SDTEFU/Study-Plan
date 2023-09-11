@@ -6,9 +6,9 @@
 
 > #### MATH
 - > mathematical logic
-  >> Representation theory
-  >> Proof theory
-  >> Model theory
+  >> Representation theory    
+  >> Proof theory    
+  >> Model theory    
 
 - Mathe analysis
 - algebra
@@ -24,7 +24,7 @@
 
 > #### Computer
 - > Theory of computation
-  >> Computability theory
+  >> Computability theory    
   >> Computational complexity theory
 - algorithm
 - data structure
