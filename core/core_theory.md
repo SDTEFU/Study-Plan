@@ -9,7 +9,6 @@
   >> Representation theory    
   >> Proof theory    
   >> Model theory    
-
 - Mathe analysis
 - algebra
 - Number Theory
