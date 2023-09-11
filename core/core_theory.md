@@ -2,9 +2,14 @@
 - Type Theory
 - Category Theory
 - Lambda Calculus
+- Recursion theory
 
 > #### MATH
-- mathematical logic
+- > mathematical logic
+  >> Representation theory
+  >> Proof theory
+  >> Model theory
+
 - Mathe analysis
 - algebra
 - Number Theory
@@ -18,7 +23,9 @@
 
 
 > #### Computer
-- Theory of computation
+- > Theory of computation
+  >> Computability theory
+  >> Computational complexity theory
 - algorithm
 - data structure
 - database
