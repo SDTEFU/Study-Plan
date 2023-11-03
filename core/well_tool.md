@@ -5,7 +5,7 @@
 > ---
 1. **Idris2**
 2. **Agda**
-3. **Vim**
+3. **Helix**
 >---
 1. **Git**
 2. **VScode**
@@ -27,3 +27,4 @@
 6.  **GTKWAVE**
 7.  **Drawio**
 8.  **onlyoffice**
+9.  **Okular**
