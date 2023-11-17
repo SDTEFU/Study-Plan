@@ -1,3 +1,5 @@
 > [rust](https://course.rs)       
 > [Hello 算法](https://www.hello-algo.com/)     
-> [codewars](https://www.codewars.com/)
+> [codewars](https://www.codewars.com/)     
+> [idris2](https://github.com/stefan-hoeck/idris2-tutorial)     
+> [Agda](https://plfa.github.io/)
