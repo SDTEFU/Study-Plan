@@ -1,16 +1,13 @@
 > Core
 1. **Linux**
 2. **Mathematica**
-3. **HURD(MINIX)**
-> ---
-1. **Idris2**
-2. **Agda**
-3. **Helix**
->---
-1. **Git**
-2. **VScode**
-3. **PostgreSQL(pgAdmin)**
-4. **Tabby**
+3. **Scilab**
+4. **HURD(MINIX)**
+5. **Idris2**
+6. **Agda**
+7. **Helix**
+8. **Git**
+9. **VScode**
 >---
 1. **NixOS**
 2. **Hyprland**
@@ -19,6 +16,9 @@
 5. **Proxmox**
 6. **QEMU**
 7. **Drawio**
+>---
+1. **PostgreSQL(pgAdmin)**
+2. **Tabby**
 > Other
 1. **logisim-evolution**
 2. **KICAD**
