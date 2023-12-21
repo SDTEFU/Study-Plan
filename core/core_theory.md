@@ -42,12 +42,12 @@
 - thermodynamics
 - electrodynamics
 
-> #### system science
+> #### System Science
 - information theory
 - Cybernetics
 - System Theory
 - Signals and Systems
   
-> #### other 
+> #### Other 
 - Operations Research
 - Game Theory
