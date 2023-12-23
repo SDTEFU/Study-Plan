@@ -11,7 +11,7 @@
  - **Idris2**
 
 
-> ### DSL
+> ### Hardware-Description-Language(Digital Information)
 - **Bluespec**
 
 

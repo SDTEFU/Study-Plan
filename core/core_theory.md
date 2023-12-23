@@ -22,18 +22,19 @@
 
 
 > #### Computer
-- > Theory of computation
-  >> Computability theory    
-  >> Computational complexity theory
-- algorithm
-- data structure
-- database
-- operating system
-- Digital electronics
-- Principles of computer composition
+- > Theory of Computation
+  >> Computability Theory    
+  >> Computational Complexity Theory
+- Algorithm
+- Data Structure
+- PLT
+- DataBase
+- Operating System
+- Digital Information
+- Principles of Computer Composition
 - Computer Architecture
-- computer network
-- Compilation principle
+- Computer Network
+- Compilation Principle
 
 > #### Physics
 - Quantum mechanics
