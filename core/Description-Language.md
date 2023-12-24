@@ -3,16 +3,16 @@
 
 > ### CORE
  - **Cubical Agda**
+ - **Idris2**
  - **Rust**
  - **RISC-V**
 
 > ### MATH
 - **Mathematica (Wolfram)**
- - **Idris2**
 
 
 > ### Hardware-Description-Language(Digital Information)
-- **Bluespec**
+- **Clash-Lang**
 
 
 > ### Configuration Files
