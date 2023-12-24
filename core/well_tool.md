@@ -1,4 +1,4 @@
-> Core
+> **Core**
 1. **Linux**
 2. **Mathematica**
 3. **Scilab**
@@ -8,6 +8,11 @@
 7. **Helix**
 8. **Git**
 9. **VScode**
+>**Draw**
+1. **Typst**
+2. **Drawio**
+3. **excalidraw**
+4. **Mathcha**
 >---
 1. **NixOS**
 2. **Hyprland**
@@ -15,11 +20,10 @@
 4. **LLVM**
 5. **Proxmox**
 6. **QEMU**
-7. **Drawio**
 >---
 1. **PostgreSQL(pgAdmin)**
 2. **Tabby**
-> Other
+> **Other**
 1. **logisim-evolution**
 2. **KICAD**
 3. **Verilator**
