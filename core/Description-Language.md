@@ -2,10 +2,14 @@
 - **用一套最核心最精简且强大的类型论公理系统(可描述/形式化/验证一切,统一数学记号)**
 
 > ### CORE
- - **Cubical Agda**
- - **Idris2**
- - **Rust**
- - **RISC-V**
+- **Cubical Agda**
+- **Idris2**
+- **Rust**
+- **RISC-V**
+
+> ### Other CORE
+- **Haskell**
+- **LLVM**
 
 > ### MATH
 - **Mathematica (Wolfram)**
