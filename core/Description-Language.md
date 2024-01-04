@@ -5,11 +5,12 @@
 - **Cubical Agda**
 - **Idris2**
 - **Rust**
-- **RISC-V**
+
 
 > ### Other CORE
-- **Haskell**
+- **RISC-V**
 - **LLVM**
+
 
 > ### MATH
 - **Mathematica (Wolfram)**
